@@ -1,0 +1,24 @@
+﻿@model Admin
+
+@{
+    ViewData["Title"] = "Login Page";
+}
+
+  <section id="login" class="bg-dark">
+      <div class="login-wrapper">
+          <h1 class="m-heading text-center">Login</h1>
+
+          <form class="login-form" method="Login">
+            <div class="form-group">
+              <label asp-for="Email"></label>
+              <input asp-for="Email" type="name" name="name" id="name">
+            </div>
+            <div class="form-group">
+              <label asp-for="PasswordHash">Password</label>
+              <input asp-for="PasswordHash" type="email" name="email" id="email">
+            </div>
+           
+            <input type="submit" value="Login" class="btn" a>
+          </form>
+        </div>
+  </section>

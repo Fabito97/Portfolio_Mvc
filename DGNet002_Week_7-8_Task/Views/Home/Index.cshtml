@@ -2,7 +2,147 @@
     ViewData["Title"] = "Home Page";
 }
 
-<div class="text-center">
-    <h1 class="display-4">Welcome</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<section class="section-wrapper">   
+    <div class="banner-wrapper" id="home">
+      <div class="banner-img">
+        <div class="background"></div>
+      </div>
+      <div class="container">
+        <div class="content">
+          <div class="banner-name">
+            <h2>
+              <span>Fabian</span>
+              Muoghalu
+            </h2>
+          </div>
+          <div class="banner-job">
+            <p>Software engineer</p>
+          </div>
+          <a class="btn" asp-area="" asp-controller="Portfolio" asp-action="Index">View My Work</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+<section class="home-special">
+    <div class="container special">
+        <div class="text-info text-center">
+            <h2 class="text-center">I specialize In</h2>
+            <div class="dark-bottom-border"></div>
+            <p class="">Software Development, be it a web application with no functionality or a web application functional and interactive</p>
+        </div>
+   
+        <div class="special-contents-wrap">
+            <div class="special-item text-center">
+                <i class="fas fa-file-alt fa-2x"></i>
+                <h3>Concepting</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit Officiis, molestias repellat quibusdam adipisci quas sedullam accusantuim aliquam numquam quidem.</p>
+            </div>
+            <div class="special-item text-center">
+                <i class="fas fa-desktop fa-2x"></i>
+                <h3>Designing</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit Officiis, molestias repellat quibusdam adipisci quas sedullam accusantuim aliquam numquam quidem.</p>
+            </div>
+            <div class="special-item text-center">
+                <i class="fas fa-object-ungroup fa-2x"></i>
+                <h3>Coding</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit Officiis, molestias repellat quibusdam adipisci quas sedullam accusantuim aliquam numquam quidem.</p>
+            </div>
+            <div class="special-item text-center">
+                <i class="fas fa-thumbs-up fa-2x"></i>
+                <h3>Deplyoment</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit Officiis, molestias repellat quibusdam adipisci quas sedullam accusantuim aliquam numquam quidem.</p>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+ <section id="home-b" class="text-center">
+      <div class="stats">
+        <div>
+          <ul>
+            <li><i class="fas fa-users fa-3x"></i></li>
+            <li class="stats-title">Clients</li>
+            <li class="stats-number">100</li>
+          </ul>
+        </div>
+        <div>
+          <ul>
+            <li><i class="fas fa-award fa-3x"></i></li>
+            <li class="stats-title">Awards</li>
+            <li class="stats-number">3</li>
+          </ul>
+        </div>
+        <div>
+          <ul>
+            <li><i class="fas fa-hourglass-start fa-3x"></i></li>
+            <li class="stats-title">Hours Worked</li>
+            <li class="stats-number">3500</li>
+          </ul>
+        </div>
+        <div>
+          <ul>
+            <li><i class="fas fa-code-branch fa-3x"></i></li>
+            <li class="stats-title">Projects Completed</li>
+            <li class="stats-number">135</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <!-- Section C: Process -->
+    <section id="home-c" class="text-center py-2">
+      <div class="container">
+        <h2 class="section-title">
+          My Creative Process
+        </h2>
+        <div class="dark-bottom-border"></div>
+        <p class="lead">
+          All of my UI/UX and design projects are based off of a practiced
+          formula to get the result that I am looking for
+        </p>
+        <div class="process">
+          <div>
+            <i class="fas fa-file-alt fa-4x process-icon my-2">
+              <div class="process-step">1</div>
+            </i>
+            <h3>Discuss The Project</h3>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
+              voluptas laborum repellendus dolorum! Harum, cupiditate.
+            </p>
+          </div>
+          <div>
+            <i class="fas fa-desktop fa-4x process-icon my-2">
+              <div class="process-step">2</div>
+            </i>
+            <h3>Brainstorming & Concept</h3>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
+              voluptas laborum repellendus dolorum! Harum, cupiditate.
+            </p>
+          </div>
+          <div>
+            <i class="fas fa-object-ungroup fa-4x process-icon my-2">
+              <div class="process-step">3</div>
+            </i>
+            <h3>UI/UX Planning</h3>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
+              voluptas laborum repellendus dolorum! Harum, cupiditate.
+            </p>
+          </div>
+          <div>
+            <i class="fas fa-thumbs-up fa-4x process-icon my-2">
+              <div class="process-step">4</div>
+            </i>
+            <h3>Interaction</h3>
+            <p>
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores
+              voluptas laborum repellendus dolorum! Harum, cupiditate.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>

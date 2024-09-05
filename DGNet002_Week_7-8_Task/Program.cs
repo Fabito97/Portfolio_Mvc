@@ -1,3 +1,6 @@
+using DGNet002_Week_7_8_Task.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace DGNet002_Week_7_8_Task
 {
     public class Program
@@ -8,6 +11,11 @@ namespace DGNet002_Week_7_8_Task
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<ApplicationDbContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+            });
 
             var app = builder.Build();
 

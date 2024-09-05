@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Decagon\\source\\repos\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj": {}
+    "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Decagon\\source\\repos\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj": {
+    "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Decagon\\source\\repos\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj",
+        "projectUniqueName": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj",
         "projectName": "DGNet002_Week_7-8_Task",
-        "projectPath": "C:\\Users\\Decagon\\source\\repos\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj",
-        "packagesPath": "C:\\Users\\Decagon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Decagon\\source\\repos\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task\\obj\\",
+        "projectPath": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj",
+        "packagesPath": "C:\\Users\\FABIAN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Decagon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\FABIAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +22,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -34,11 +35,32 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +80,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

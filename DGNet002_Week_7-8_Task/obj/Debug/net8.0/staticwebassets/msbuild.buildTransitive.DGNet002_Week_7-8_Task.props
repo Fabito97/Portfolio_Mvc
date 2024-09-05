@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DGNet002_Week_7-8_Task.props" />
+</Project>

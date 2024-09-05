@@ -1,46 +1,91 @@
-﻿<!DOCTYPE html>
+﻿@{
+    var controller = ViewContext.RouteData.Values["Controller"].ToString();
+    var action = ViewContext.RouteData.Values["action"].ToString();
+}
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>@ViewData["Title"] - DGNet002_Week_7_8_Task</title>
-    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <title>@ViewData["Title"] - Fabbenco WebDev Hub</title>
+    @*<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" /> *@
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
     <link rel="stylesheet" href="~/DGNet002_Week_7_8_Task.styles.css" asp-append-version="true" />
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900
+    &family=Roboto:ital,wght@0,300;0,400;0,500;0,700&display=swap" rel="stylesheet" asp-append-version="true" >
+    <script src="https://kit.fontawesome.com/83d1f4e67e.js" crossorigin="anonymous" asp-append-version="true" ></script>
 </head>
+
 <body>
-    <header>
-        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3">
-            <div class="container-fluid">
-                <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index">DGNet002_Week_7_8_Task</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
-                        aria-expanded="false" aria-label="Toggle navigation">
-                    <span class="navbar-toggler-icon"></span>
-                </button>
-                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
-                    <ul class="navbar-nav flex-grow-1">
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                        </li>
-                    </ul>
-                </div>
+    @if (controller != "Admin")
+    {        
+        <header class="navbar">
+          <nav class="nav-topbar">
+          <div class="topbar-inner">
+            <div class="logo">
+              <a class="navbar-brand" asp-area="" asp-controller="Home" asp-action="Index"><h2>Fabbenco DevHub</h2></a>          
             </div>
-        </nav>
-    </header>
-    <div class="container">
+            <div class="nav-btn">
+              <button class="btn">
+                <span></span>
+                <span></span>
+                <span></span>
+              </button>
+            </div>
+
+            <div class="nav-list">
+              <ul class="nav-links">
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Home" ? "active-menu" : "")">
+                    <a class="nav-link text-dark current" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                </li>
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "About" ? "active-menu" : "")">
+                    <a class="nav-link text-dark current" asp-area="" asp-controller="About" asp-action="About">About</a>
+                </li> 
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Portfolio" ? "active-menu" : "")">
+                    <a class="nav-link text-dark current" asp-area="" asp-controller="Portfolio" asp-action="Portfolio">Portfolio</a>
+                </li> 
+                <li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Contact" ? "active-menu" : "")">
+                    <a class="nav-link text-dark current" asp-area="" asp-controller="Contact" asp-action="Contact">Contact</a>
+                </li>
+              </ul>
+            </div>
+          </div>      
+        </nav>       
+        </header>
+    }
+
+    <section class="">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
-    </div>
+    </section>
 
-    <footer class="border-top footer text-muted">
-        <div class="container">
-            &copy; 2024 - DGNet002_Week_7_8_Task - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-        </div>
-    </footer>
+
+    @if (controller != "Admin") 
+    { 
+        <footer class="border-top main-footer text-muted py-2">  
+            <div class="footer-content container">
+              <p>Copyright &copy; 2024. All Rights Reserved</p>
+              <div class="social">
+
+                <a href="https://wa.link/7cpkb8"><i class="fab fa-whatsapp"></i></a>
+                <a href="https://facebook.com"><i class="fab fa-facebook"></i></a>
+                <a href="https://instagram.com"><i class="fab fa-instagram"></i></a>
+                <a href="https://fa-linkedin.com"><i class="fab fa-linkedin"></i></a>   
+              </div>
+       
+ 
+            @* <div class="nav">
+                <ul>
+                    <li>About</li>
+                    <li>Contact</li>
+                    <li><a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a></li>
+                </ul>
+            </div> *@
+            </div>
+        </footer>
+    }
     <script src="~/lib/jquery/dist/jquery.min.js"></script>
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
     <script src="~/js/site.js" asp-append-version="true"></script>
