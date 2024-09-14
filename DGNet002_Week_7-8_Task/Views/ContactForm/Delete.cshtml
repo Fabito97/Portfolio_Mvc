@@ -1,0 +1,30 @@
+﻿@model ContactForm
+@{
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+	
+<section>
+	<form class="form-wrapper dark-text" asp-action="Delete" method="post">
+			<input asp-for="ContactFormId" hidden />
+			<div class="form-group">
+				<label asp-for="Name"></label>
+				<input asp-for="Name" disabled class="form-control"/>			
+			</div>		
+			<div class="form-group">
+				<label asp-for="Email"></label>
+				<input asp-for="Email" disabled class="form-control" />
+			</div>
+			<div class="form-group">
+				<label asp-for="Phone"></label>
+				<input asp-for="Phone" disabled class="form-control"/>			
+			</div>
+			<div class="form-group">
+				<label asp-for="Message"></label>
+				<textarea asp-for="Message" disabled class="form-control"></textarea>
+			</div> 
+			<p>Are you sure you want to delete</p>
+			<button type="submit" class="btn">Yes</button>
+			<a asp-controller="ContactForm" asp-action="Index" class="btn ">No</a>
+		</form>
+</section>
+

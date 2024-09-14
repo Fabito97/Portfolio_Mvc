@@ -1,0 +1,47 @@
+﻿@model IEnumerable<ContactForm>
+@{
+    ViewData["Title"] = "ContactForm-Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+
+<section class="forms">
+
+    <div class="dark-text">
+        <h1 class="text-primary py-2">Contact Form List</h1>
+        <table style="width: 100%">
+            <thead>
+              <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone Number</th>
+                <th style="width: 30%">Message</th>
+                <th></th>
+              </tr>                
+            </thead>
+            <tbody>
+               
+              @foreach (var item in Model)
+              {
+                <tr>
+                    <td>@item.Name</td>
+                    <td>@item.Email</td>
+                    <td>@item.Phone</td>
+                    <td>@item.Message</td>
+                    <td>
+                    <div>
+                      <a class="btn-delete" asp-controller="ContactForm" asp-action="Delete" asp-route-id="@item.ContactFormId" class="btn">Delete</a>
+                    </div>
+
+                    </td>
+
+                </tr>
+              }  
+            </tbody>
+            
+          </table>
+
+    </div>
+
+</section>
+

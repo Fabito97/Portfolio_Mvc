@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Skill>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section class="section-group">    
+    <div class="flex py-2">
+        <h1 class="dark-text text-primary">Skill Section</h1>
+        <a asp-controller="Skill" asp-action="Create" class="btn ">New Skill</a>
+    </div>
+
+
+    <div class="card-wrapper grid">
+        @foreach (var item in Model)
+        {
+            <div class="card bg-dark" style="width:30%">
+                <div class="card-body">   
+                   <h2 class="text-primary light-text">@item.SkillName</h2> 
+                   <h3 style="margin: 10px" class="light-text">@item.Description</h3>              
+                </div>          
+                <div class="btn-group">
+                    <a class="btn" asp-controller="Skill" asp-action="Edit" asp-route-id="@item.SkillId">Edit</a>
+                    <a class="btn" asp-controller="Skill" asp-action="Delete" asp-route-id="@item.SkillId">Delete</a>             
+                </div>     
+            </div>
+        }
+       
+    </div>
+
+</section>
+

@@ -1,12 +1,22 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using DGNet002_Week_7_8_Task.Interfaces;
+using DGNet002_Week_7_8_Task.Models;
+using Microsoft.AspNetCore.Mvc;
 
 namespace DGNet002_Week_7_8_Task.Controllers
 {
     public class AboutController : Controller
     {
-        public IActionResult About()
+        private readonly ISkillRepository _skillRepository;
+        public AboutController(ISkillRepository skillRepository)
         {
-            return View();
+            _skillRepository = skillRepository;
         }
+
+        public async Task<IActionResult> About()
+        {
+            IEnumerable<Skill> skills = await _skillRepository.GetSkills();
+            return View(skills);
+        }
+     
     }
 }

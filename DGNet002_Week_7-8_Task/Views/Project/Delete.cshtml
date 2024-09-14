@@ -1,0 +1,27 @@
+﻿@model Project
+@{
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section class="dark-text">
+	<h2 class="py-2">Delete Project</h2>
+
+	<div class="card " style="width:300px">
+					<div class="card-body card-delete">   
+					   <img width="300px" src="@Model.Image"/>          
+					  <div class="card-text">
+						  <h3>@Model.Title</h3>
+						  <h3>@Model.Description</h3>
+						<p class="dark-text"></p>
+					  </div>
+					</div>    			     
+					<form asp-action="Delete" method="post">
+		
+						@* <p>Are you sure you want to delete</p> *@
+						<button type="submit" class="btn trim">Delete</button>
+						<a asp-controller="Project" asp-action="Index" class="btn ">Cancel</a>
+
+					</form>
+
+				</div>
+</section>

@@ -1,55 +1,35 @@
 ﻿@{
-	ViewData["Title"] = "Admin-Page";
+    ViewData["Title"] = "Admin-Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
- <section class="header dark-background d-flex flex-column dark-text">
-    <i class="header-toggle d-xl-none bi bi-list"></i>
-    <div class="profile-wrapper">
-        <div class="profile-img">
-           @* <img src="assets/img/my-profile-img.jpg" alt="" class="img-fluid rounded-circle"> *@
-        </div>
+  <section class="admn-section">
+      <h1 class="text-primary dark-text">Welcome Fabbenco</h1>
+      <div class="admin-items">
+          <div class="admin-flex-items">
+            <h2>Contact Details</h2>
+            <a asp-controller="Admin" asp-action="Detail" class="btn">View contact Details</a>
 
-        <a href="index.html" class="logo d-flex align-items-center justify-content-center"></a>
-          <h1 class="sitename">Fabian Muoghalu</h1>
+          </div>
+          <div class="admin-flex-items">
+            <h2>Resume</h2>
+            <a asp-controller="Resume" asp-action="Index" class="btn">View Resume</a>
 
-        <div class="social-links text-center dark-text">
-            <a href="https://wa.link/7cpkb8"><i class="fab fa-whatsapp"></i></a>
-            <a href="https://facebook.com"><i class="fab fa-facebook"></i></a>
-            <a href="https://instagram.com"><i class="fab fa-instagram"></i></a>
-            <a href="https://fa-linkedin.com"><i class="fab fa-linkedin"></i></a>  
-        </div>
-    </div>
+          </div>
+          <div class="admin-flex-items">
+            <h2>Projects</h2>
+            <a asp-controller="Project" asp-action="Index" class="btn">View Projects</a>
 
-    <nav id="navmenu" class="navmenu">
-      <ul class="nav-links">
-         <li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Index" ? "active-menu" : "")">
-             <a class="nav-link text-dark current" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
-         </li>
-         <li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "About" ? "active-menu" : "")">
-             <a class="nav-link text-dark current" asp-area="" asp-controller="About" asp-action="About">About</a>
-         </li> 
-         <li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Portfolio" ? "active-menu" : "")">
-             <a class="nav-link text-dark current" asp-area="" asp-controller="Portfolio" asp-action="Portfolio">Portfolio</a>
-         </li> 
-         <li class="nav-item @(ViewContext.RouteData.Values["controller"].ToString() == "Contact" ? "active-menu" : "")">
-             <a class="nav-link text-dark current" asp-area="" asp-controller="Contact" asp-action="Contact">Contact</a>
-         </li>
-         <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>Edit Portfolio Contents</a>
-             <ul class="submenu">
-                <li><a href="#hero" class="active"><i class="bi bi-house navicon"></i>Update Contact Details</a></li>
-                <li><a href="#about"><i class="bi bi-person navicon"></i>Edit Portfolio</a></li>
-                <li><a href="#resume"><i class="bi bi-file-earmark-text navicon"></i> Edit Resume</a></li>
-                <li><a href="#portfolio"><i class="bi bi-images navicon"></i> Edit Skills</a></li>
-                <li><a href="#services"><i class="bi bi-hdd-stack navicon"></i>Edit Services</a></li>
-                <li class="dropdown"><a href="#"><i class="bi bi-menu-button navicon"></i> <span>Dropdown</span><i class="bi bi-chevron-down toggle-dropdown"></i></a></li> 
-            </ul>
-        </li>        
-      </ul>
-    </nav>
+          </div >
+          <div class="admin-flex-items">
+            <h2>Skills Section</h2>
+            <a asp-controller="Skill" asp-action="Index" class="btn">View Skills</a>
 
-  </section>
-
-  <section class="admin-section">
-      <h1 class="text-primary dark-text">Welcome To Your Dashboard</h1>
+          </div>
+          <div class="admin-flex-items"> 
+            <h2>Contact Forms</h2>
+            <a asp-controller="ContactForm" asp-action="Index" class="btn">View contact forms</a>
+          </div>
+      </div>
   </section>
 

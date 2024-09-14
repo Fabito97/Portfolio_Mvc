@@ -1,6 +1,4 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model IEnumerable<Skill>
 @{
     ViewData["Title"] = "About";
 }
@@ -68,15 +66,23 @@
 <section id="skill">
     <h2 class="m-heading text-center py-1"><span class="text-primary">Skills</span> Track Record:</h2> 
     <div class="skill-items container">
-       <div class="bottom-line"></div>  
-       <div class="skill-item">
-         <h4>Html & CSS:</h4>
-         <p>95%</p>
-       </div>
-      <div class="progress">
-        <div style="width:95%"></div>
-      </div>
-       <div class="skill-item">
+       <div class="bottom-line"></div> 
+       
+       @foreach (var item in Model)
+        {
+            <div class="skill-item">
+             <h4>@item.SkillName</h4>
+             <p>@item.Description</p>
+           </div>
+          <div class="progress">
+                <div style="width:@item.Description"></div>
+          </div>
+            
+        }
+
+
+
+      @*  <div class="skill-item">
          <h4>JavaScript:</h4>
          <p>80%</p>
        </div>
@@ -103,7 +109,7 @@
        </div>
       <div class="progress">
         <div style="width:75%"></div>
-      </div>
+      </div> *@
     </div> 
 </section>
 
@@ -192,7 +198,7 @@
               sint? Non, fugit!
             </p>
             <ul>
-              <li><img src="/Images/Testimonials/person1.jpg" alt="" /></li> 
+              <li><img src="https://res.cloudinary.com/dlu45noef/image/upload/v1726264635/person1_kp1pym.jpg" alt="" /></li> 
               <li>Sam Smith, New York</li>
             </ul>
           </div>
@@ -204,7 +210,7 @@
               sint? Non, fugit!
             </p>
             <ul>
-              <li><img src="/Images/Testimonials/person2.jpg" alt="" /></li>
+              <li><img src="https://res.cloudinary.com/dlu45noef/image/upload/v1726264634/person2_dih56r.jpg" alt="" /></li>
               <li>Sara Williams, Michigan</li>
             </ul>
           </div>
@@ -216,7 +222,7 @@
               sint? Non, fugit!
             </p>
             <ul>
-              <li><img src="/Images/Testimonials/person3.jpg" alt="" /></li>
+              <li><img src="https://res.cloudinary.com/dlu45noef/image/upload/v1726264634/person3_mm8esp.jpg" alt="" /></li>
               <li>Jill Johnson, London</li>
             </ul>
           </div>
@@ -228,7 +234,7 @@
               sint? Non, fugit!
             </p>
             <ul>
-              <li><img src="/Images/Testimonials/person4.jpg" alt="" /></li>
+              <li><img src="https://res.cloudinary.com/dlu45noef/image/upload/v1726264634/person4_a24ufl.jpg" alt="" /></li>
               <li>Steve Thompson, Boston</li>
             </ul>
           </div>

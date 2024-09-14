@@ -5,116 +5,12 @@
       "PackagePath": "staticwebassets\\DGNet002_Week_7-8_Task.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\372497218099213.png",
-      "PackagePath": "staticwebassets\\Images\\372497218099213.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Items\\item2.png",
-      "PackagePath": "staticwebassets\\Images\\Items\\item2.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Items\\item3.png",
-      "PackagePath": "staticwebassets\\Images\\Items\\item3.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Items\\item4.png",
-      "PackagePath": "staticwebassets\\Images\\Items\\item4.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Items\\item5.png",
-      "PackagePath": "staticwebassets\\Images\\Items\\item5.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Items\\item6.png",
-      "PackagePath": "staticwebassets\\Images\\Items\\item6.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Items\\item7.png",
-      "PackagePath": "staticwebassets\\Images\\Items\\item7.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Items\\item8.png",
-      "PackagePath": "staticwebassets\\Images\\Items\\item8.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Items\\item9.png",
-      "PackagePath": "staticwebassets\\Images\\Items\\item9.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Items\\pexels-photo-747964.jpeg",
-      "PackagePath": "staticwebassets\\Images\\Items\\pexels-photo-747964.jpeg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Testimonials\\person1.jpg",
-      "PackagePath": "staticwebassets\\Images\\Testimonials\\person1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Testimonials\\person2.jpg",
-      "PackagePath": "staticwebassets\\Images\\Testimonials\\person2.jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Testimonials\\person3.jpg",
-      "PackagePath": "staticwebassets\\Images\\Testimonials\\person3.jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\Testimonials\\person4.jpg",
-      "PackagePath": "staticwebassets\\Images\\Testimonials\\person4.jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\bg-image-removebg (2).png",
-      "PackagePath": "staticwebassets\\Images\\bg-image-removebg (2).png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\bg-image-removebg.png",
-      "PackagePath": "staticwebassets\\Images\\bg-image-removebg.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\gallery\\01.gif",
-      "PackagePath": "staticwebassets\\Images\\gallery\\01.gif"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\gallery\\10.jpg",
-      "PackagePath": "staticwebassets\\Images\\gallery\\10.jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\gallery\\6.png",
-      "PackagePath": "staticwebassets\\Images\\gallery\\6.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\gallery\\9.jpg",
-      "PackagePath": "staticwebassets\\Images\\gallery\\9.jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\gallery\\ICODE.jpg",
-      "PackagePath": "staticwebassets\\Images\\gallery\\ICODE.jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\gallery\\ICODE1.jpg",
-      "PackagePath": "staticwebassets\\Images\\gallery\\ICODE1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\gallery\\MY BRAND-1.jpg",
-      "PackagePath": "staticwebassets\\Images\\gallery\\MY BRAND-1.jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\item1.png",
-      "PackagePath": "staticwebassets\\Images\\item1.png"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\proxy-image (1).jpg",
-      "PackagePath": "staticwebassets\\Images\\proxy-image (1).jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\proxy-image(1).jpg",
-      "PackagePath": "staticwebassets\\Images\\proxy-image(1).jpg"
-    },
-    {
-      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\Images\\showcase.jpg",
-      "PackagePath": "staticwebassets\\Images\\showcase.jpg"
-    },
-    {
       "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
     },
     {
       "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\favicon.ico",
@@ -191,6 +87,22 @@
     {
       "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
     },
     {
       "Id": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",

@@ -1,0 +1,159 @@
+﻿@model IEnumerable<AdminUser>
+@{
+    ViewData["Title"] = "ContactDetail-Page";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section class="forms admn-section">
+
+    <div class="dark-text form-wrapper">
+        <h1 class="text-primary py-2">Contact Details</h1>
+
+                @foreach (var item in Model)
+                {
+        <table style="width: 100%">          
+                     <tr>
+                          <th style="width: 20%">Name</th>
+                          <td>@item.Name</td>
+                     </tr>
+                     <tr>
+                          <th style="width: 20%">Email</th>
+                          <td>@item.Email</td>
+                     </tr>
+                     <tr>
+                          <th style="width: 20%">Username</th>
+                          <td>@item.UserName</td> 
+                     </tr>
+                     <tr>
+                          <th style="width: 20%">Phone Number</th>
+                          <td>@item.PhoneNumber</td>
+                     </tr>
+                     <tr>
+                          <th style="width: 20%">City</th>
+                          <td>@item.City</td>
+                     </tr>
+                     <tr>
+                          <th style="width: 20%">Address</th>
+                          <td>@item.Address</td>
+                     </tr>            
+
+          </table>
+                    <a asp-controller="Admin" asp-action="Edit" asp-route-id="@item.Id" class="btn">Edit contact Details</a>
+                }  
+    </div>
+</section> 
+
+@* 
+<form asp-action="EditAdmin" method="post">
+
+    <div id="admin-details">
+
+        @foreach (var item in Model)
+        {            
+        
+            <div>
+                <label>Name: </label>
+                <span id="admin-Name-display">@item.Name</span>
+                <input asp-for="@item.Name" name="name" id="admin-name-input" 
+                    value="@item.Name" style="display: none;" />"
+            </div>
+            
+            <div>
+                <label>Email</label>
+                <span id="admin-Name-display">@item.Name</span>
+                <input asp-for="@item.Name" name="name" id="admin-name-input" 
+                    value="@item.Name" style="display: none;" />"
+            </div>
+            
+            <div>
+                <label>UserName</label>
+                <span id="admin-Name-display">@item.Name</span>
+                <input asp-for="@item.Name" name="name" id="admin-name-input" 
+                    value="@item.Name" style="display: none;" />"
+            </div>
+            
+            <div>
+                <label>PhoneNumber</label>
+                <span id="admin-Name-display">@item.Name</span>
+                <input asp-for="@item.Name" name="name" id="admin-name-input" 
+                    value="@item.Name" style="display: none;" />"
+            </div>
+            
+            <div>
+                <label>City: </label>
+                <span id="admin-Name-display">@item.Name</span>
+                <input asp-for="@item.Name" name="name" id="admin-name-input" 
+                    value="@item.Name" style="display: none;" />"
+            </div>
+            
+            <div>
+                <label>Address: </label>
+                <span id="admin-Name-display">@item.Name</span>
+                <input asp-for="@item.Name" name="name" id="admin-name-input" 
+                    value="@item.Name" style="display: none;" />"
+            </div>
+
+        }
+
+        <button class="btn" type="button" id="edit-btn" onclick="toggleEdit()">Edit</button>
+        <button class="btn" type="submit" id="save-btn" onclick="toggleEdit()">Save</button>
+    </div>
+</form> *@
+@* 
+
+<script>
+    function toggleEdit() {
+        var detiails = document.querySelectorAll("#admin-details div";
+        
+        details.forEach(function(detail)
+        {
+            var display = detail.querySelector("span");
+            var input = detail.querySelector("input");
+             
+            display.style.display = "none";
+            input.style.display = "inline";
+        }
+
+        document.getElementById("edit-btn).syle.display = "none";
+        document.getElementById("save-btn).syle.display = "inline";
+
+    }
+</script>
+ *@
+
+
+
+
+
+
+
+
+
+@* 
+  <form action="Edit" method="post">
+    @* <div asp-validation-summary="ModelOnly"></div> 
+            <div class="form-group">
+              <label asp-for="Name"></label>
+              <input asp-for="Name"  name="name" class="form-controm">
+              <span asp-validation-for="Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+              <label asp-for="Email"></label>
+              <input asp-for="Email"  name="email" class="form-controm">
+              <span asp-validation-for="Email" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+              <label asp-for="PhoneNumber"></label>
+              <input asp-for="PhoneNumber" name="phone" class="form-control">
+              <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+
+            </div>
+            <div class="form-group">
+              <label asp-for="UserName"></label>
+
+              <textarea asp-for="UserName" Class="form-control"></textarea>
+              <span asp-validation-for="UserName" class="text-danger"></span>
+            </div>
+            <button type="submit" class="btn">Send</button>
+          </form> *@

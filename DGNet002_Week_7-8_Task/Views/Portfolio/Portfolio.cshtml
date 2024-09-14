@@ -1,6 +1,4 @@
-﻿@*
-    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
-*@
+﻿@model IEnumerable<Project>
 @{
     ViewData["Title"] = "Portfolio";
 }
@@ -13,20 +11,24 @@
         <p class="lead">
           Check out some of my projects
         </p>
-
-        <div class="items">
-          <div class="item">
-            <div class="item-image">
-              <img src="/Images/item1.png" alt="" />
-            </div>
-            <div class="item-text">
-              <div class="item-text-wrap">
-                <p class="item-text-category">Design</p>
-                <h2 class="item-text-title">Great Gradients</h2>
+            <div class="items">
+        @foreach (var item in Model)
+        {
+              <div class="item">
+                <div class="item-image">
+                  <img src="@item.Image" alt="" />
+                </div>
+                <div class="item-text">
+                  <div class="item-text-wrap">
+                    <p class="item-text-category">@item.Title</p>
+                    <h2 class="item-text-title">@item.Description</h2>
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-          <div class="item">
+            
+        }
+
+         @*  <div class="item">
             <div class="item-image">
               <img src="/Images/Items/item2.png" alt="" />
             </div>
@@ -114,6 +116,6 @@
               </div>
             </div>
           </div>
-        </div>
+        </div> *@
       </div>
     </section>

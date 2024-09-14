@@ -1,11 +1,19 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DGNet002_Week_7_8_Task
 build_property.RootNamespace = DGNet002_Week_7_8_Task
@@ -22,28 +30,28 @@ build_property._RazorSourceGeneratorDebug =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJvdXRcQWJvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Admin/ContactForm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ29udGFjdEZvcm0uY3NodG1s
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Admin/Dashboard.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGFzaGJvYXJkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Admin/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Admin/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGV0YWlsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Admin/Project.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUHJvamVjdC5jc2h0bWw=
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Admin/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Admin/Resume.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cUmVzdW1lLmNzaHRtbA==
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/ContactForm/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEZvcm1cRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Admin/Skill.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cU2tpbGwuY3NodG1s
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/ContactForm/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGFjdEZvcm1cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Contact/Contact.cshtml]
@@ -62,12 +70,64 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUG9ydGZvbGlvXFBvcnRmb2xpby5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Project/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Project/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Project/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Resume/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Resume/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Resume/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Resume/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVzdW1lXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZG1pbkxheW91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Skill/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Skill/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Skill/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/Skill/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2tpbGxcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/FABIAN/Desktop/DecagonTask/dg002-week-7-8-task-Fabito97/DGNet002_Week_7-8_Task/Views/_ViewImports.cshtml]

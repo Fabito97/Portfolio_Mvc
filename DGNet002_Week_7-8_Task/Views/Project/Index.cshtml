@@ -1,0 +1,37 @@
+﻿@model IEnumerable<Project>
+@{
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section class=section-group>    
+    <div class="flex py-2">
+        <h1 class="dark-text text-primary">Project Section</h1>
+        <a asp-controller="Project" asp-action="Create" class="btn ">New Project</a>
+    </div>
+
+
+    <div class="card-wrapper grid">
+
+        @foreach (var item in Model)
+        {
+            <div class="card" style="width:300px">
+                <div class="card-body">   
+                   <img width="300px" src="@item.Image"/>          
+                  <div class="card-text">
+                      <h3>@item.Title</h3>
+                    <p class="dark-text">@item.Description</p>
+                  </div>
+                </div>          
+                <div class="btn-group">
+                    <a asp-controller="Project" asp-action="Edit" asp-route-id="@item.ProjectId" class="btn">Edit</a>
+                        <a asp-controller="Project" asp-action="Delete" asp-route-id="@item.ProjectId" class="btn ">Delete</a>
+                </div>     
+            </div>
+            
+        }
+
+    </div>
+
+     
+</section>
+

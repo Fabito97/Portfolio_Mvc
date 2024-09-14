@@ -1,5 +1,4 @@
 ﻿@model ContactForm
-
 @{
     ViewData["Title"] = "Contact Page";
 }
@@ -10,34 +9,34 @@
           <h1 class="m-heading text-center">Contact Us</h1>
           <p class="text-center">Please use the form to contact me</p>
 
-          <form method="post">
+          <form class="container" asp-action="Contact" method="post">
+              @* <div asp-validation-summary="ModelOnly"></div> *@
             <div class="form-group">
               <label asp-for="Name"></label>
-              <input asp-for="Name" type="name" name="name" id="name">
+              <input asp-for="Name"  name="Name" class="form-control" placeholder="Enter your email">
               <span asp-validation-for="Name" class="text-danger"></span>
             </div>
             <div class="form-group">
               <label asp-for="Email"></label>
-              <input asp-for="Email" type="email" name="email" id="email">
+              <input asp-for="Email"  name="Email" class="form-control" placeholder="Enter your email">
               <span asp-validation-for="Email" class="text-danger"></span>
-
             </div>
             <div class="form-group">
               <label asp-for="Phone"></label>
-              <input asp-for="Phone" type="phone" name="phone" id="phone">
+              <input asp-for="Phone" name="Phone" class="form-control" placeholder="Enter your phone number">
               <span asp-validation-for="Phone" class="text-danger"></span>
-
             </div>
             <div class="form-group">
               <label asp-for="Message"></label>
-              <textarea asp-for="Message" Class=""></textarea>
+              <textarea asp-for="Message" Class="form-control" placeholder="Enter your message"></textarea>
               <span asp-validation-for="Message" class="text-danger"></span>
             </div>
-            <input type="submit" value="Send" class="btn" a>
+            <button type="submit" class="btn">Send</button>
           </form>
         </div>
       </div>
   </section>
+
 
   <section id="contact-info">
     <div class="info-box" class="bg-dark">
@@ -67,3 +66,10 @@
       </div>
     </section>
 
+
+
+  @*       @section Scripts{
+            @{
+                <partial name="_ValidationScriptsPartial" />
+            }
+        }  *@

@@ -1,13 +1,16 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.Build.Evaluation;
+using System.ComponentModel.DataAnnotations;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DGNet002_Week_7_8_Task.Models
 {
     public class Resume
     {
-        [Key]
-        public int ResumeSectionId { get; set; }
-        public string SectionName {  get; set; }
-        public string Content { get; set; }
-        public string Order { get; set; }
+    
+        public int ResumeId { get; set; }
+        public string Summary { get; set; }        
+
+        
+
     }
 }

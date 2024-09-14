@@ -1,0 +1,25 @@
+﻿@model Skill
+@{
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section class="dark-text">
+	<h1>Edit Skill</h1>
+
+	<form class="form-wrapper" asp-action="Edit" method="post">
+		<div class="form-group">
+			<label asp-for="SkillName"></label>
+			<input asp-for="SkillName" class="form-control"/>
+			<span asp-validation-for="SkillName" class="danger-text"></span>
+		</div>		
+		<div class="form-group">
+			<label asp-for="Description"></label>
+			<input asp-for="Description" class="form-control" />
+			<span asp-validation-for="Description" class="danger-text"></span>
+		</div>			
+
+		<button type="submit" class="btn">Update</button>
+
+	</form>
+
+</section>

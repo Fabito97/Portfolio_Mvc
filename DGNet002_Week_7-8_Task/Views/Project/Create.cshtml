@@ -1,0 +1,37 @@
+﻿@model ProjectViewModel
+@{
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section class="dark-text">
+	<h1>Create New Project</h1>
+
+	<form class="form-wrapper" asp-action="Create" method="post" enctype="multipart/form-data">
+		<div class="form-group">
+			<label asp-for="Title"></label>
+			<input asp-for="Title" class="form-control"/>
+			<span asp-validation-for="Title" class="danger-text"></span>
+
+		</div>		
+		<div class="form-group">
+			<label asp-for="Description"></label>
+			<input asp-for="Description" class="form-control" />
+			<span asp-validation-for="Description" class="danger-text"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="Image"></label>
+			<input asp-for="Image" type="file" name="Image" class="form-control"/>
+			<span asp-validation-for="Image" class="danger-text"></span>
+		</div>
+		<div class="form-group">
+			<label asp-for="ProjectLink"></label>
+			<input asp-for="ProjectLink" name="ProjectLink" class="form-control"/>
+			<span asp-validation-for="ProjectLink"  class="danger-text"></span>
+		</div>
+
+		<button type="submit" class="btn">Create</button>
+		<a asp-controller="Project" asp-action="Index" class="btn ">Back to projects</a>
+
+	</form>
+
+</section>

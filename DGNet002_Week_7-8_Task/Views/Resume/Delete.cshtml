@@ -1,0 +1,31 @@
+﻿@* @model Resume
+@{
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section>
+	<form class="form-wrapper" asp-action="Delete" method="post">
+			<input asp-for="Content" hidden />
+			<div class="form-group">
+				<label asp-for="Content"></label>
+				<input asp-for="Content" disabled class="form-control"/>			
+			</div>		
+			<div class="form-group">
+				<label asp-for="Content"></label>
+				<input asp-for="Content" disabled class="form-control" />
+			</div>
+			<div class="form-group">
+				<label asp-for="Content"></label>
+				<input asp-for="Content" disabled class="form-control"/>			
+			</div>
+			<div class="form-group">
+				<label asp-for="Content"></label>
+				<textarea asp-for="Content" disabled class="form-control"></textarea>
+			</div> 
+			<p>Are you sure you want to delete</p>
+			<button type="submit" class="btn">Yes</button>
+			<a asp-controller="Resume" asp-action="Index" class="btn ">No</a>
+		</form>
+</section>
+
+ *@

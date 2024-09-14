@@ -1,0 +1,23 @@
+﻿@model Skill
+@{
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section>
+	<h1>Edit Skill</h1>
+
+	<form class="form-wrapper" asp-action="Delete" method="post">
+			<input asp-for="SkillId" hidden />
+			<div class="form-group">
+				<label asp-for="SkillName"></label>
+				<input asp-for="SkillName" disabled class="form-control"/>			
+			</div>		
+			<div class="form-group">
+				<label asp-for="Description"></label>
+				<input asp-for="Description" disabled class="form-control" />
+			</div>			
+			<button type="submit" class="btn">Delete</button>
+			<a asp-controller="Skill" asp-action="Index" class="btn">Cancel</a>
+		</form>
+</section>
+

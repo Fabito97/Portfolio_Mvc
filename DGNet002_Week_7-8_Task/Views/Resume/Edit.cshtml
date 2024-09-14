@@ -1,0 +1,31 @@
+﻿@* @model Resume
+@{
+	Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<section class="dark-text">
+	<h1>Edit Resume Section</h1>
+
+	<form class="form-wrapper" asp-action="Edit" method="post" enctype="multipart/form-data">
+		<div class="form-group">
+			<label asp-for="Content"></label>
+			<input asp-for="Content" class="form-control"/>
+			<span asp-validation-for="Content" class="danger-text"></span>
+
+		</div>		
+		<div class="form-group">
+			<label asp-for="Content"></label>
+			<input asp-for="Content" class="form-control" />
+			<span asp-validation-for="Content" class="danger-text"></span>
+		</div>		
+		<div class="form-group">
+			<label asp-for="Content"></label>
+			<input asp-for="Content" class="form-control"/>
+			<span asp-validation-for="Content" class="danger-text"></span>
+		</div>
+
+		<button type="submit" class="btn">Update</button>
+
+	</form>
+
+</section> *@

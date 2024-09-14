@@ -1,0 +1,80 @@
+﻿@{
+    var action = ViewContext.RouteData.Values["action"].ToString();
+
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/style.css" asp-append-version="true" />
+     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900
+    &family=Roboto:ital,wght@0,300;0,400;0,500;0,700&display=swap" rel="stylesheet" >
+    <script src="https://kit.fontawesome.com/83d1f4e67e.js" crossorigin="anonymous"></script>
+    <title>@ViewBag.Title</title>
+</head>
+<body>
+
+    @if (action != "Login")
+    {
+        
+     <section class="header dark-background d-flex flex-column dark-text">
+        <i class="header-toggle d-xl-none bi bi-list"></i>
+        <div class="profile-wrapper">
+            <div class="profile-img">
+                    @* <img src="assets/img/my-profile-img.jpg" alt="" class="img-fluid rounded-circle"> *@
+            </div>
+
+            <a href="index.html" class="logo d-flex align-items-center justify-content-center"></a>
+              <h1 class="sitename">Fabian Muoghalu</h1>
+
+            <div class="social-links text-center dark-text">
+                <a href="https://wa.link/7cpkb8"><i class="fab fa-whatsapp"></i></a>
+                <a href="https://facebook.com"><i class="fab fa-facebook"></i></a>
+                <a href="https://instagram.com"><i class="fab fa-instagram"></i></a>
+                <a href="https://fa-linkedin.com"><i class="fab fa-linkedin"></i></a>  
+            </div>
+        </div>
+
+        <nav id="navmenu" class="navmenu">
+          <ul class="nav-links">
+             <li class="nav-item ">
+                 <a class="nav-link text-dark current" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+             </li>
+             <li class="nav-item">
+                 <a class="nav-link text-dark current" asp-area="" asp-controller="About" asp-action="About">About</a>
+             </li> 
+             <li class="nav-item">
+                 <a class="nav-link text-dark current" asp-area="" asp-controller="Portfolio" asp-action="Portfolio">Portfolio</a>
+             </li> 
+             <li class="nav-item">
+                 <a class="nav-link text-dark current" asp-area="" asp-controller="Contact" asp-action="Contact">Contact</a>
+             </li>
+             <li><a href="#hero" class="active">Edit Portfolio <i class="fa-solid fa-user-pen"></i></a>
+                 <ul class="submenu">
+                    <li><a asp-controller="Admin" asp-action="Detail"><i class="bi bi-house navicon"></i>Contact Details</a></li>
+                    <li><a asp-controller="Project" asp-action="Index"><i class="bi bi-house navicon"></i>Edit Projects</a></li>
+                    <li><a asp-controller="Resume" asp-action="Index"><i class="bi bi-house navicon"></i>Edit Resume</a></li>
+                    <li><a asp-controller="Skill" asp-action="Index"><i class="bi bi-house navicon"></i>Skills</a></li>
+                    <li><a asp-controller="ContactForm" asp-action="Index"><i class="bi bi-house navicon"></i>Contact Forms</a></li>                  
+                </ul>
+            </li>        
+                 <li>
+                     <form asp-controller="Account" asp-action="Logout" method="post">
+                     <button class="logout-btn btn" type="submit">Logout</button>
+                     </form>
+                 </li>  
+          </ul>
+        </nav>
+      </section>
+    }
+
+
+    <div class="admin-section">
+        @RenderBody()
+    </div>
+
+</body>
+</html>

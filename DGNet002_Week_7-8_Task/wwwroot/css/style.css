@@ -1,0 +1,218 @@
+﻿
+.admin-section .btn {
+    padding: 2px 15px;
+    font-size: 10px;
+    margin-top: 1rem;
+    border-radius: 5px;
+}
+
+
+
+table, th, td {
+    border: 1px solid var(--dark-color);
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+
+tbody tr:nth-child(odd) {
+    background: #d4e3ed;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flex-left {
+    display: flex;
+    justify-content: flex-start;
+    gap: 2rem;
+}
+
+.form-wrapper .btn {
+    padding: 10px 15px;
+}
+
+
+
+.form-wrapper {
+    width: 700px;
+    margin-top: 2rem;
+}
+
+.form-wrapper-edit {
+    margin-top: 0rem;
+}
+
+.form-group input, .form-group textarea {
+    display: block;
+    width: 100%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    outline-color: var(--light-color); 
+    
+}
+
+.card {
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    box-shadow: 2px 5px 10px #aaa;
+    color: #333;
+    padding-bottom: 1rem;
+}
+
+.card .btn {
+    margin-top: 5px;
+    width: 40%;
+}
+
+.card .trim {
+    padding: 11px
+}
+
+
+/*
+.table-btn {
+    display: inline;
+    margin-right: auto;
+}*/
+
+/*=======================
+    Admin Section
+    =======================
+*/
+
+.admin-section {
+    position: relative;
+    background: #fff;
+    top: 0;
+    left: 250px;
+    bottom: 0;
+    width: 80vw;
+    overflow-x: hidden;
+    padding: 2rem;
+}
+
+
+.skill-item {
+    display: flex;
+    justify-content: space-between;
+}
+
+.header {
+    background: var(--dark-color);
+    width: 250px;
+    color: #fff;
+    padding: 2rem 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    transition: all ease-in-out 0.3s;
+    overflow: auto;
+    z-index: 997;
+    /*    border-right: 1px solid color-mix(in srgb, #333, transparent 90%);*/
+}
+
+.header a:hover {
+    color: var(--light-color)
+}
+
+.profile-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 1rem;
+}
+
+    .profile-wrapper h1 {
+        margin: 0.3rem 0;
+        font-size: 1.3rem;
+    }
+
+.header .profile-img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: url('https://res.cloudinary.com/dlu45noef/image/upload/v1726264827/bg-image-removebg_we7vt9.png') no-repeat center center/cover;
+    border: 8px solid #333;
+}
+
+.header .profile-img img {
+    margin: 15px auto;
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+.profile-wrapper a .fab {
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    background: #444;
+    border-radius: 50%;
+    padding: 0.7rem;
+}
+
+.profile-wrapper a:hover .fab {
+    background: var(--light-color);
+}
+
+.header ul {
+    position: relative;
+    margin: 2rem 0 0 0rem;
+    line-height: 2;
+    text-align: left;
+}
+
+
+.header ul li {
+    margin-top: 1rem;
+}
+
+.header ul li ul {
+    display: none;
+    position: relative;
+    background: #222;
+    box-shadow: 0px 8px 16px rgba(0,0,0,0.5);
+    padding: 0rem;
+    width: 80%;
+    border-radius: 10px;
+    transition: all 0.3s;
+    margin-top: 1rem;
+}
+
+.header ul li:last-child:hover .submenu {
+    display: block;
+    padding: 0.5rem 1rem;
+}
+
+.logout-btn {
+    position: absolute;
+}
+
+.admin-items {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    gap: 1rem;
+    text-align: center;
+}
+
+.admin-flex-items {
+    width: 100%;
+    background-color: var(--dark-color);
+    color: #fff;
+    padding: 2rem;
+    border-radius: 10px;
+}
+
+admin-items h2 {
+    padding: 2rem 0;
+}
