@@ -3,16 +3,84 @@
   "WorkspaceRootPath": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\services\\resumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\services\\resumeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\resumecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\viewmodel\\indexresumeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\viewmodel\\indexresumeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\interfaces\\iresumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\interfaces\\iresumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\resume\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\resume\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\about\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\about\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\resume\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\viewmodel\\createresumeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\viewmodel\\createresumeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\resume\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\resume\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\repository\\resumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\repository\\resumerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\models\\education.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -23,12 +91,39 @@
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\shared\\_adminlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\contactformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\contactformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\repository\\contactformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\repository\\contactformrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\contactform\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\contactform\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\contactform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\contactform\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/localhost/MyPortfolioApp/True/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\aboutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\skillcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\skill\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -39,24 +134,12 @@
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\models\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\skill\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\skill\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\skill\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\skill\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\skill\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\project\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\project\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -69,18 +152,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\contact\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\data\\seed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\viewmodel\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -97,14 +168,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\contactformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\contactformcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\controllers\\projectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\controllers\\portfoliocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -127,10 +190,6 @@
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\portfolio\\portfolio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\project\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\services\\photoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -143,10 +202,6 @@
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\views\\project\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\repository\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\interfaces\\iphotoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -155,8 +210,8 @@
       "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Migrations\\20240913043121_AddPublicIdColumnToProjectTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DGNet002_Week_7-8_Task\\Migrations\\20240913043121_AddPublicIdColumnToProjectTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|c:\\users\\fabian\\desktop\\decagontask\\dg002-week-7-8-task-fabito97\\dgnet002_week_7-8_task\\migrations\\20240913043121_addpublicidcolumntoprojecttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626E59CC-B459-47CE-872A-741DB38F66F8}|DGNet002_Week_7-8_Task\\DGNet002_Week_7-8_Task.csproj|solutionrelative:dgnet002_week_7-8_task\\migrations\\20240913043121_addpublicidcolumntoprojecttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -166,7 +221,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -178,80 +233,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AboutController.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AboutController.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\AboutController.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AboutController.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\AboutController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T04:06:39.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Skill.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Models\\Skill.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Models\\Skill.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Models\\Skill.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Models\\Skill.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T03:05:05.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SkillController.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\SkillController.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\SkillController.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\SkillController.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\SkillController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T03:03:00.219Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Create.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Project\\Create.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Create.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Project\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T05:14:58.35Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Index.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Skill\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Index.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Skill\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAKAAAA",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Resume\\Index.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Resume\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Resume\\Index.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Resume\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAABQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T10:06:55.476Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "site.css",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\wwwroot\\css\\site.css",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\css\\site.css",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\wwwroot\\css\\site.css",
-              "ViewState": "AQIAAKwCAAAAAAAAAAAkwMkCAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-13T22:05:37.643Z",
+              "WhenOpened": "2024-09-14T20:23:52.231Z",
               "EditorCaption": ""
             },
             {
@@ -262,254 +252,176 @@
               "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\wwwroot\\css\\style.css",
               "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\css\\style.css",
               "RelativeToolTip": "DGNet002_Week_7-8_Task\\wwwroot\\css\\style.css",
-              "ViewState": "AQIAAKEAAAAAAAAAAAAAAMIAAAAXAAAA",
+              "ViewState": "AQIAANkAAAAAAAAAAAAAAPIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-09-13T09:51:25.76Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Skill\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Delete.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Skill\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Resume\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Resume\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Resume\\Edit.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Resume\\Edit.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAUwAkAAAAxAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T02:53:05.125Z",
+              "WhenOpened": "2024-09-14T21:34:24.241Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_AdminLayout.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Shared\\_AdminLayout.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Shared\\_AdminLayout.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Shared\\_AdminLayout.cshtml",
-              "ViewState": "AQIAACkAAAAAAAAAAAAswEkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T02:36:34.611Z",
+              "DocumentIndex": 0,
+              "Title": "ResumeService.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Services\\ResumeService.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Services\\ResumeService.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Services\\ResumeService.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Services\\ResumeService.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAwwBkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:38:06.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResumeController.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ResumeController.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\ResumeController.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ResumeController.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\ResumeController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAADwv0AAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T20:37:52.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAABoAAAAAAAAAAAAgwDkAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T00:56:21.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "About.cshtml",
               "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\About\\About.cshtml",
               "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\About\\About.cshtml",
               "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\About\\About.cshtml",
               "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\About\\About.cshtml",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAAAGwAAAANAAAA",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAAAFEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-09-13T23:30:43.262Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "Dashboard.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Admin\\Dashboard.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Admin\\Dashboard.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Admin\\Dashboard.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Admin\\Dashboard.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T10:20:44.361Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Contact.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Contact\\Contact.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Contact\\Contact.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Contact\\Contact.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Contact\\Contact.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T22:12:10.014Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Index.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Project\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Index.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Project\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T02:49:19.619Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Edit.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Skill\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Edit.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Skill\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T02:45:00.173Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Create.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Skill\\Create.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Create.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Skill\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T02:54:02.222Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "PortfolioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\PortfolioRepository.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Repository\\PortfolioRepository.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\PortfolioRepository.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Repository\\PortfolioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "DocumentIndex": 2,
+              "Title": "IndexResumeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\ViewModel\\IndexResumeViewModel.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\ViewModel\\IndexResumeViewModel.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\ViewModel\\IndexResumeViewModel.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\ViewModel\\IndexResumeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:09:05.408Z",
+              "WhenOpened": "2024-09-14T16:31:01.404Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Account\\Login.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBgAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T00:53:25.414Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\ViewModel\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\ViewModel\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\ViewModel\\LoginViewModel.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\ViewModel\\LoginViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-14T00:49:15.31Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAA7AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T02:25:28.089Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAADkAAAAAAAAAAAAAAA8AAABtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-14T02:37:35.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Program.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Program.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Program.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T01:41:10.714Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 8,
               "Title": "ProjectController.cs",
               "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ProjectController.cs",
               "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\ProjectController.cs",
               "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ProjectController.cs",
               "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\ProjectController.cs",
-              "ViewState": "AQIAACsAAAAAAAAAAAAkwCYAAAAIAAAA",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAkwCYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T02:19:20.905Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Seed.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Data\\Seed.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Data\\Seed.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Data\\Seed.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Data\\Seed.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAQwCQAAAAHAAAA",
+              "DocumentIndex": 3,
+              "Title": "IResumeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IResumeRepository.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Interfaces\\IResumeRepository.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IResumeRepository.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Interfaces\\IResumeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T02:13:16.63Z",
+              "WhenOpened": "2024-09-14T20:42:05.043Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Admin\\Detail.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Admin\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Admin\\Detail.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Admin\\Detail.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "DocumentIndex": 9,
+              "Title": "CreateResumeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\ViewModel\\CreateResumeViewModel.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\ViewModel\\CreateResumeViewModel.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\ViewModel\\CreateResumeViewModel.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\ViewModel\\CreateResumeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T21:29:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Resume\\Create.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Resume\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Resume\\Create.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Resume\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T10:28:45.451Z",
+              "WhenOpened": "2024-09-14T17:10:07.904Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 11,
+              "Title": "AdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\AdminRepository.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Repository\\AdminRepository.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\AdminRepository.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Repository\\AdminRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAIwDQAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:26:56.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:56:21.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Program.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Program.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Program.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIAwwBIAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T01:41:10.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "ContactFormController.cs",
               "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ContactFormController.cs",
               "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\ContactFormController.cs",
               "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ContactFormController.cs",
               "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\ContactFormController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAAAAAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAUwCwAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-13T23:36:18.166Z",
               "EditorCaption": ""
@@ -517,97 +429,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "ContactController.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ContactController.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\ContactController.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ContactController.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\ContactController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAASAAAA",
+              "Title": "ContactFormRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\ContactFormRepository.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Repository\\ContactFormRepository.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\ContactFormRepository.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Repository\\ContactFormRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA0wBkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:36:33.183Z",
+              "WhenOpened": "2024-09-14T14:54:24.09Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "PortfolioController.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\PortfolioController.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\PortfolioController.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\PortfolioController.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\PortfolioController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "DocumentIndex": 14,
+              "Title": "ResumeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\ResumeRepository.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Repository\\ResumeRepository.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\ResumeRepository.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Repository\\ResumeRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAcAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:01:24.114Z",
+              "WhenOpened": "2024-09-14T20:45:59.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Portfolio.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Portfolio\\Portfolio.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Portfolio\\Portfolio.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Portfolio\\Portfolio.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Portfolio\\Portfolio.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAOAAAA",
+              "DocumentIndex": 20,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMkCAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-13T22:05:37.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Create.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Project\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Create.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Project\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T22:57:02.635Z",
+              "WhenOpened": "2024-09-13T05:14:58.35Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "IPortfolioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IPortfolioRepository.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Interfaces\\IPortfolioRepository.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IPortfolioRepository.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Interfaces\\IPortfolioRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T23:07:23.839Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "PhotoService.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Services\\PhotoService.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Services\\PhotoService.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Services\\PhotoService.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Services\\PhotoService.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAIA1wDAAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T04:01:58.668Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "IAdminRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IAdminRepository.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Interfaces\\IAdminRepository.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IAdminRepository.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Interfaces\\IAdminRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T02:26:35.339Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Delete.cshtml",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Project\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Delete.cshtml",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Project\\Delete.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-13T10:38:46.074Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 17,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Edit.cshtml",
               "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Project\\Edit.cshtml",
@@ -620,7 +493,362 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Index.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Project\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Index.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Project\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T02:49:19.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Education.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Models\\Education.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Models\\Education.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Models\\Education.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Models\\Education.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:13:39.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\ContactForm\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\ContactForm\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\ContactForm\\Delete.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\ContactForm\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:55:36.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_AdminLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Shared\\_AdminLayout.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Shared\\_AdminLayout.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Shared\\_AdminLayout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAswDYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T02:36:34.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Index.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Skill\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Index.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Skill\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T10:06:55.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\ContactForm\\Index.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\ContactForm\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\ContactForm\\Index.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\ContactForm\\Index.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T14:55:48.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Skill\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Delete.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Skill\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T02:53:05.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/localhost/MyPortfolioApp/True/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-09-14T14:31:42.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:25:28.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AboutController.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AboutController.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\AboutController.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\AboutController.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\AboutController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T04:06:39.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Seed.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Data\\Seed.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Data\\Seed.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Data\\Seed.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Data\\Seed.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:13:16.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SkillController.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\SkillController.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\SkillController.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\SkillController.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\SkillController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:03:00.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Models\\Skill.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Models\\Skill.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Models\\Skill.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Models\\Skill.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T03:05:05.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T10:20:44.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Contact\\Contact.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Contact\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Contact\\Contact.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Contact\\Contact.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T22:12:10.014Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 33,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Edit.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Skill\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Edit.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Skill\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T02:45:00.173Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Create.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Skill\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Skill\\Create.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Skill\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T02:54:02.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "PortfolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\PortfolioRepository.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Repository\\PortfolioRepository.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\PortfolioRepository.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Repository\\PortfolioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:09:05.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBgAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T00:53:25.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\ViewModel\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\ViewModel\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\ViewModel\\LoginViewModel.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\ViewModel\\LoginViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T00:49:15.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAAAA8AAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-14T02:37:35.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Detail.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Admin\\Detail.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Admin\\Detail.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Admin\\Detail.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Admin\\Detail.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T10:28:45.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:36:33.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "PortfolioController.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\PortfolioController.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Controllers\\PortfolioController.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Controllers\\PortfolioController.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Controllers\\PortfolioController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:01:24.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Portfolio.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Portfolio\\Portfolio.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Portfolio\\Portfolio.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Portfolio\\Portfolio.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Portfolio\\Portfolio.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T22:57:02.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IPortfolioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Interfaces\\IPortfolioRepository.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IPortfolioRepository.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Interfaces\\IPortfolioRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T23:07:23.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "PhotoService.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Services\\PhotoService.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Services\\PhotoService.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Services\\PhotoService.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Services\\PhotoService.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAIA1wDAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T04:01:58.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IAdminRepository.cs",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IAdminRepository.cs",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Interfaces\\IAdminRepository.cs",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IAdminRepository.cs",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Interfaces\\IAdminRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T02:26:35.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Delete.cshtml",
+              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Views\\Project\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Views\\Project\\Delete.cshtml",
+              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Views\\Project\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-13T10:38:46.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "ProjectViewModel.cs",
               "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\ViewModel\\ProjectViewModel.cs",
               "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\ViewModel\\ProjectViewModel.cs",
@@ -628,12 +856,11 @@
               "RelativeToolTip": "DGNet002_Week_7-8_Task\\ViewModel\\ProjectViewModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T04:32:19.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T04:32:19.294Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 51,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Models\\Project.cs",
               "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Models\\Project.cs",
@@ -641,25 +868,11 @@
               "RelativeToolTip": "DGNet002_Week_7-8_Task\\Models\\Project.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T04:30:16.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T04:30:16.025Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "AdminRepository.cs",
-              "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\AdminRepository.cs",
-              "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Repository\\AdminRepository.cs",
-              "ToolTip": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Repository\\AdminRepository.cs",
-              "RelativeToolTip": "DGNet002_Week_7-8_Task\\Repository\\AdminRepository.cs",
-              "ViewState": "AQIAACYAAAAAAAAAAAAYwDQAAAACAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T02:26:56.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 52,
               "Title": "20240913043121_AddPublicIdColumnToProjectTable.cs",
               "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Migrations\\20240913043121_AddPublicIdColumnToProjectTable.cs",
               "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Migrations\\20240913043121_AddPublicIdColumnToProjectTable.cs",
@@ -667,12 +880,11 @@
               "RelativeToolTip": "DGNet002_Week_7-8_Task\\Migrations\\20240913043121_AddPublicIdColumnToProjectTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T04:31:21.279Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T04:31:21.279Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 50,
               "Title": "IPhotoService.cs",
               "DocumentMoniker": "C:\\Users\\FABIAN\\Desktop\\DecagonTask\\dg002-week-7-8-task-Fabito97\\DGNet002_Week_7-8_Task\\Interfaces\\IPhotoService.cs",
               "RelativeDocumentMoniker": "DGNet002_Week_7-8_Task\\Interfaces\\IPhotoService.cs",
@@ -680,8 +892,7 @@
               "RelativeToolTip": "DGNet002_Week_7-8_Task\\Interfaces\\IPhotoService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-13T04:40:31.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-13T04:40:31.935Z"
             }
           ]
         }

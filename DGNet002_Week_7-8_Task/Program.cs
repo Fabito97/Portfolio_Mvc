@@ -16,7 +16,7 @@ using Microsoft.EntityFrameworkCore;
             builder.Services.AddControllersWithViews();
 
 			builder.Services.AddScoped<IAdminRepository, AdminRepository>();
-			builder.Services.AddScoped<IResumeRepository, ResumeRepository>();
+			builder.Services.AddScoped<IResumeRepository, IResumeService>();
             builder.Services.AddScoped<IProjectRepository, ProjectRepository>();
             builder.Services.AddScoped<ISkillRepository, SkillRepository>();
             builder.Services.AddScoped<IContactFormRepository, ContactFormRepository>();

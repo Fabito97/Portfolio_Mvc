@@ -27,16 +27,12 @@ namespace DGNet002_Week_7_8_Task.Controllers
         {
             if (!ModelState.IsValid) return View(loginView);
 
-            var adminUser = new AdminUser();
-
-            adminUser.Email = loginView.Email;
-            adminUser.PasswordHash = loginView.Password;
-
-            var user = await _userManager.FindByEmailAsync(adminUser.Email);
+                    
+            var user = await _userManager.FindByEmailAsync(loginView.Email);
 
             if (user != null)
             {              
-                var result = await _signInManager.PasswordSignInAsync(user, adminUser.PasswordHash, false, false);
+                var result = await _signInManager.PasswordSignInAsync(user, loginView.Password, false, false);
 
                 if (result.Succeeded)
                 {

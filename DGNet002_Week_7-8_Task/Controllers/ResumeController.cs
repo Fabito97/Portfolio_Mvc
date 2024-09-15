@@ -1,6 +1,8 @@
 ﻿using DGNet002_Week_7_8_Task.Data;
 using DGNet002_Week_7_8_Task.Interfaces;
 using DGNet002_Week_7_8_Task.Models;
+using DGNet002_Week_7_8_Task.Services;
+using DGNet002_Week_7_8_Task.ViewModel;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -18,51 +20,58 @@ namespace DGNet002_Week_7_8_Task.Controllers
 
 		public async Task<IActionResult> Index()
         {
-            IEnumerable<Resume> resumes = await _resumeRepository.GetResumes();
-            return View(resumes);
+			var resumeModel = await _resumeRepository.GetResumesSections();
+
+			if (resumeModel == null)
+				resumeModel = new IndexResumeViewModel();
+
+            return View(resumeModel);
         }
 
         public IActionResult Create()
         {
-            return View();
+			var resumeModel = new CreateResumeViewModel();
+            return View(resumeModel);
         }
 
 		[HttpPost]
-		public IActionResult Create(Resume resume)
-		{			
-			if (ModelState.IsValid)
+		public IActionResult Create(CreateResumeViewModel resumeModel)
+		{
+			if (resumeModel != null)
 			{
-				_resumeRepository.Add(resume);
+				_resumeRepository.AddResume(resumeModel);
 
 				return RedirectToAction("Create");
 			}
-			return View(resume);
+			return View(resumeModel);
 		}
 
-		public async Task<IActionResult> Edit(int id)
+		public async Task<IActionResult> Edit()
 		{
-			if (id == null) return NotFound();
+			var resumeModel = await _resumeRepository.GetResumesSections();
 
-			var resume = await _resumeRepository.GetResumesById(id);
+			if (resumeModel == null)
+				return NotFound();
 
-			if (resume == null) return NotFound();
-
-			return View(resume);
+			return View(resumeModel);
 		}
 
 		[HttpPost]
-		public IActionResult Edit(Resume resume)
+		public IActionResult Edit(IndexResumeViewModel resumeModel)
 		{			
 
-			if (ModelState.IsValid)
+			if (resumeModel != null)
 			{				
-				_resumeRepository.Update(resume);
+				_resumeRepository.UpdateResume(resumeModel);
 
-				return RedirectToAction("Create");
+				return RedirectToAction("Index");
 			}
-			return View(resume);
+			return View(resumeModel);
 		}
-		public async Task<IActionResult> Delete(int id)
+
+
+
+		/*public async Task<IActionResult> Delete(int id)
 		{
 			if (id == null) return NotFound();
 
@@ -85,6 +94,6 @@ namespace DGNet002_Week_7_8_Task.Controllers
 			_resumeRepository.Delete(resume);
 			return RedirectToAction("Index");
 
-		}
+		}*/
 	}
 }

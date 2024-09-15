@@ -1,31 +1,73 @@
-﻿@* @model Resume
+﻿@model IndexResumeViewModel
 @{
 	Layout = "~/Views/Shared/_AdminLayout.cshtml";
 }
 
 <section class="dark-text">
-	<h1>Edit Resume Section</h1>
+	<h1>Edit Resume</h1>
 
-	<form class="form-wrapper" asp-action="Edit" method="post" enctype="multipart/form-data">
+	<form class="form-wrapper dark-text" asp-action="Edit" method="post">
+		<input asp-for="Resumes.ResumeId" type="hidden" />
 		<div class="form-group">
-			<label asp-for="Content"></label>
-			<input asp-for="Content" class="form-control"/>
-			<span asp-validation-for="Content" class="danger-text"></span>
-
+			<h3>Edit Summary</h3>
+			<label asp-for="Resumes.Summary"></label>
+			<textarea asp-for="Resumes.Summary" class="form-control" style="height:100px"></textarea>
+			<span asp-validation-for="Resumes.Summary" class="danger-text"></span>
 		</div>		
-		<div class="form-group">
-			<label asp-for="Content"></label>
-			<input asp-for="Content" class="form-control" />
-			<span asp-validation-for="Content" class="danger-text"></span>
-		</div>		
-		<div class="form-group">
-			<label asp-for="Content"></label>
-			<input asp-for="Content" class="form-control"/>
-			<span asp-validation-for="Content" class="danger-text"></span>
-		</div>
 
-		<button type="submit" class="btn">Update</button>
+		<div class="form-group">
+			<h3 class="py-1">Edit Education</h3>
+			@for (int i = 0; i < Model.Educations.Count; i++)
+			{
+						<input asp-for="Educations[i].EducationId" type="hidden" />
+
+					<div class="form-group">
+						<label asp-for="Educations[i].InstitutionName"></label>
+						<input asp-for="Educations[i].InstitutionName" class="form-control" />
+					</div>
+					<div class="form-group">
+						<label asp-for="Educations[i].Degree"></label>
+						<input asp-for="Educations[i].Degree" class="form-control" />
+					</div>
+					<div class="form-group">
+						<label asp-for="Educations[i].GraduationDate"></label>
+						<input asp-for="Educations[i].GraduationDate" type="date" class="form-control" />
+					</div>				
+			}
+		</div>		
+
+		<div class="form-group">
+			<h3 class="py-1">Edit Work Experience</h3>
+			@for (int i = 0; i < Model.WorkExperiences.Count; i++)
+			{
+						<input asp-for="WorkExperiences[i].WorkExperienceId" type="hidden" />
+
+					<div class="form-group">
+						<label asp-for="WorkExperiences[i].CompanyName"></label>
+						<input asp-for="WorkExperiences[i].CompanyName" class="form-control" />
+					</div>	
+					<div class="form-group">
+						<label asp-for="WorkExperiences[i].JobTitle"></label>
+						<input asp-for="WorkExperiences[i].JobTitle" class="form-control" />
+					</div>	
+					<div class="form-group">
+						<label asp-for="WorkExperiences[i].Description"></label>
+							<textarea asp-for="WorkExperiences[i].Description" style="height:150px" class="form-control"></textarea>
+					</div>	
+					<div class="form-group">
+						<label asp-for="WorkExperiences[i].StartDate"></label>
+						<input asp-for="WorkExperiences[i].StartDate" type="date" class="form-control" />
+					</div>	
+					<div class="form-group">
+						<label asp-for="WorkExperiences[i].EndDate"></label>
+						<input asp-for="WorkExperiences[i].EndDate" type="date" class="form-control" />
+					</div>				
+			}
+		</div>		
+
+		<button type="submit" class="btn">Save</button>
+		<a asp-controller="Project" asp-action="Index" class="btn ">Back to Resume</a>
 
 	</form>
 
-</section> *@
+</section> 

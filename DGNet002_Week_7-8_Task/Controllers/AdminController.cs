@@ -40,7 +40,6 @@ namespace DGNet002_Week_7_8_Task.Controllers
             if (id == null) return NotFound();
 
             var admindetails = await _adminRepository.GetDetailsById(id);
-
             if (admindetails == null) return NotFound();
                       
 
@@ -53,6 +52,8 @@ namespace DGNet002_Week_7_8_Task.Controllers
         {
             if (ModelState.IsValid)
             {                
+                admin.NormalizedEmail = admin.Email.ToUpper();
+
 			    _adminRepository.Update(admin);          
 
                 return RedirectToAction("Detail");

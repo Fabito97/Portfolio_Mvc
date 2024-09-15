@@ -34,39 +34,38 @@
                 <a href="https://wa.link/7cpkb8"><i class="fab fa-whatsapp"></i></a>
                 <a href="https://facebook.com"><i class="fab fa-facebook"></i></a>
                 <a href="https://instagram.com"><i class="fab fa-instagram"></i></a>
-                <a href="https://fa-linkedin.com"><i class="fab fa-linkedin"></i></a>  
+                <a href="https://linkedin.com"><i class="fab fa-linkedin"></i></a>  
             </div>
         </div>
 
         <nav id="navmenu" class="navmenu">
           <ul class="nav-links">
              <li class="nav-item ">
-                 <a class="nav-link text-dark current" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                 <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
              </li>
              <li class="nav-item">
-                 <a class="nav-link text-dark current" asp-area="" asp-controller="About" asp-action="About">About</a>
+                 <a class="nav-link" asp-area="" asp-controller="About" asp-action="About">About</a>
              </li> 
              <li class="nav-item">
-                 <a class="nav-link text-dark current" asp-area="" asp-controller="Portfolio" asp-action="Portfolio">Portfolio</a>
+                 <a class="nav-link" asp-area="" asp-controller="Portfolio" asp-action="Portfolio">Portfolio</a>
              </li> 
              <li class="nav-item">
-                 <a class="nav-link text-dark current" asp-area="" asp-controller="Contact" asp-action="Contact">Contact</a>
+                 <a class="nav-link" asp-area="" asp-controller="Contact" asp-action="Contact">Contact</a>
              </li>
-             <li><a href="#hero" class="active">Edit Portfolio <i class="fa-solid fa-user-pen"></i></a>
+                 <li><a asp-controller="Admin" asp-action="Dashboard">Dashboard <i class="fa-solid fa-user-pen"></i> </a>
                  <ul class="submenu">
-                    <li><a asp-controller="Admin" asp-action="Detail"><i class="bi bi-house navicon"></i>Contact Details</a></li>
-                    <li><a asp-controller="Project" asp-action="Index"><i class="bi bi-house navicon"></i>Edit Projects</a></li>
-                    <li><a asp-controller="Resume" asp-action="Index"><i class="bi bi-house navicon"></i>Edit Resume</a></li>
-                    <li><a asp-controller="Skill" asp-action="Index"><i class="bi bi-house navicon"></i>Skills</a></li>
-                    <li><a asp-controller="ContactForm" asp-action="Index"><i class="bi bi-house navicon"></i>Contact Forms</a></li>                  
+                    <li><a asp-controller="Admin" asp-action="Detail">Contact Details</a></li>
+                    <li><a asp-controller="Project" asp-action="Index">Edit Projects</a></li>
+                    <li><a asp-controller="Resume" asp-action="Index">Edit Resume</a></li>
+                    <li><a asp-controller="Skill" asp-action="Index">Skills</a></li>
+                    <li><a asp-controller="ContactForm" asp-action="Index">Contact Forms</a></li>                  
                 </ul>
             </li>        
-                 <li>
+               
+          </ul>
                      <form asp-controller="Account" asp-action="Logout" method="post">
                      <button class="logout-btn btn" type="submit">Logout</button>
                      </form>
-                 </li>  
-          </ul>
         </nav>
       </section>
     }

@@ -21,7 +21,7 @@ namespace DGNet002_Week_7_8_Task.Repository
 
 		public bool Delete(ContactForm form)
 		{
-			_context.Add(form);
+			_context.Remove(form);
 			return Save();
 		}
 

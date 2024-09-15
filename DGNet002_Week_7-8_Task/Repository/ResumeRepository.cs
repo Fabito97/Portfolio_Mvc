@@ -5,7 +5,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace DGNet002_Week_7_8_Task.Repository
 {
-	public class ResumeRepository : IResumeRepository
+	public class ResumeRepository 
 	{
 		public ApplicationDbContext _context;
 		public ResumeRepository(ApplicationDbContext context)
